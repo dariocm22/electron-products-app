@@ -1,6 +1,6 @@
 # electron-products-app
 
-Aplicación "sencilla" que nos permite agregarproductos, precio y descripción, y posteriormente eliminarlos y salir.
+Aplicación "sencilla" que nos permite agregar productos, precio y descripción, y posteriormente eliminarlos y salir.
 
 Fué desarrollada con Electron en VScode, y agregando Bootsrapp v5.0 para darle estilo a la app
 
